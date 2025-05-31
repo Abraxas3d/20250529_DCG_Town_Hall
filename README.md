@@ -9,4 +9,6 @@ Representatives from the company that runs the DEFCON conference were the slide 
 
 An mp4 file of the event was recorded. This is a raw transcription of that file. This transcription was made with the transcription function in Microsoft Word by @Abraxas3d
 
+## transcript.md
 
+This is a hand-edited file with punctuation, grammar, and spelling corrections. Please submit further corrections, such as corrections to names or handles, or improved transcription, as an issue or a pull request.
